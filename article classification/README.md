@@ -26,6 +26,9 @@ feature selection:
      
      BOW, TFIDF
    
-   
+  
+  
+![image](https://github.com/W-echo/20T1/blob/master/article%20classification/cross_validation.png)  
 
-     
+
+![image](https://github.com/W-echo/20T1/blob/master/article%20classification/recommendation_result.png)
